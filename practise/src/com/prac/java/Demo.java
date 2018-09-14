@@ -15,5 +15,6 @@ public class Demo {
 			System.out.println();
 			row++;
 		}
+		System.out.println(row);
 	}
 }
